@@ -8,7 +8,7 @@
 - *Blue background* = Democratic Party
 - *Red background* = Republican Party
 - *Purple background and white text* = 'Whig'
-- No background = no party, the Federalist Party, the Democratic-Republic Party, or the National-Republican Party
+- *White background* = no party, the Federalist Party, the Democratic-Republic Party, or the National-Republican Party
 
 ### Set-Up:
 * Clone this repo `https://github.com/hlhartley/jquery-practice.git`
