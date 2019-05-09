@@ -1,7 +1,35 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    display: grid;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Charm', cursive;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+th {
+    font-size: 20px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 7px;
+}
+
+.presidents {
+    margin: 5px;
+}
+
 .red {
-    background-color: red
+    background-color: #c92626;
 }
 
 .blue {
-    background-color: blue
+    background-color: #1c86da;
 }
