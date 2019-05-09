@@ -11,9 +11,8 @@
 - Presidents with no background were associated with no party, the Federalist Party, the Democratic-Republic Party, or the National-Republican Party.
 
 ### Set-Up:
-**Front end**  
 * Clone this repo `https://github.com/hlhartley/jquery-practice.git`
-* Open index.html
+* Open index.html in browser
 
 ### Primary Technologies Used:
 * Html
