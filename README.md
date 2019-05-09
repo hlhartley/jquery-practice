@@ -12,7 +12,7 @@
 
 ### Set-Up:
 **Front end**  
-* Clone this repo 
+* Clone this repo https://github.com/hlhartley/jquery-practice.git
 * Open index.html
 
 ### Primary Technologies Used:
