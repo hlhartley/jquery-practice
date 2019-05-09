@@ -5,10 +5,10 @@
 ![Screenshot](jqueryss.png)
 
 ### Key:
-- Presidents with a *blue background* were associated with the Democratic Party
-- Presidents with a *red background* were associated with the Republican Party
-- Presidents with a *purple background* and white text were 'Whig'
-- Presidents with no background were associated with no party, the Federalist Party, the Democratic-Republic Party, or the National-Republican Party.
+- *Blue background* = Democratic Party
+- *Red background* = Republican Party
+- *Purple background and white text* = 'Whig'
+- No background = no party, the Federalist Party, the Democratic-Republic Party, or the National-Republican Party
 
 ### Set-Up:
 * Clone this repo `https://github.com/hlhartley/jquery-practice.git`
