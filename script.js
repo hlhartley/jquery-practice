@@ -1,0 +1,1 @@
+$('tr').css({ backgroundColor: 'blue'})
