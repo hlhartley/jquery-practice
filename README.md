@@ -1,5 +1,5 @@
 # JQuery Practice
-- I created this project to practice JQuery based on a Turing lesson. 
+- I created this project to practice JQuery based on a [Turing lesson](http://frontend.turing.io/lessons/module-1/introduction-to-jquery.html). 
 
 ### Preview:
 ![Screenshot](jqueryss.png)
@@ -19,6 +19,3 @@
 * CSS
 * JavaScript
 * JQuery
-
-### Link to Turing Lesson on JQuery:
-[JQuery Intro](http://frontend.turing.io/lessons/module-1/introduction-to-jquery.html)
