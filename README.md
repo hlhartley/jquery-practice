@@ -32,4 +32,4 @@
 - Add the class of yellow to the term column of the table.
 - Take all the whig presidents and give them a purple background and white text.
 - Find all of the presidents who died in office (hint: they have a died class on their tr).
-- Append <span class="died">(Died)</span> to the the term column.
+- Append `<span class="died">(Died)</span>` to the the term column.
