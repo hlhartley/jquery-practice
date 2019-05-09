@@ -1,8 +1,8 @@
 # JQuery Practice
-I created this project to practice JQuery based on a Turing lesson. 
+- I created this project to practice JQuery based on a Turing lesson. 
 
 ### Preview:
-![Screenshot]()
+![Screenshot](jqueryss.png)
 
 ### Key:
 - Presidents with a blue background were associated with the Democratic Party
